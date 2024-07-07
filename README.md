@@ -1,4 +1,4 @@
-# google-clone
+# Repositorio de Google clone 
 Proyecto clone de Google utilizando CSS
 
 ## descripción
